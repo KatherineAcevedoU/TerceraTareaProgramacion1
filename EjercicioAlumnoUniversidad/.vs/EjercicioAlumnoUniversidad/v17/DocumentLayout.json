@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F881F8-DF83-456C-A572-0E18EA49D49E}|EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad.csproj|c:\\users\\usuario\\desktop\\terceratareaprogramacion1\\ejercicioalumnouniversidad\\ejercicioalumnouniversidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F881F8-DF83-456C-A572-0E18EA49D49E}|EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad.csproj|solutionrelative:ejercicioalumnouniversidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F881F8-DF83-456C-A572-0E18EA49D49E}|EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad.csproj|C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\ejercicioalumnouniversidad\\archivo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F881F8-DF83-456C-A572-0E18EA49D49E}|EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad.csproj|solutionrelative:ejercicioalumnouniversidad\\archivo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F881F8-DF83-456C-A572-0E18EA49D49E}|EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad.csproj|C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\ejercicioalumnouniversidad\\archivo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F881F8-DF83-456C-A572-0E18EA49D49E}|EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad.csproj|solutionrelative:ejercicioalumnouniversidad\\archivo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Archivo2.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad\\Archivo2.cs",
+              "RelativeDocumentMoniker": "EjercicioAlumnoUniversidad\\Archivo2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad\\Archivo2.cs",
+              "RelativeToolTip": "EjercicioAlumnoUniversidad\\Archivo2.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:31:59.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Archivo1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad\\Archivo1.cs",
+              "RelativeDocumentMoniker": "EjercicioAlumnoUniversidad\\Archivo1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad\\Archivo1.cs",
+              "RelativeToolTip": "EjercicioAlumnoUniversidad\\Archivo1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:45:22.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioAlumnoUniversidad\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TerceraTareaProgramacion1\\EjercicioAlumnoUniversidad\\EjercicioAlumnoUniversidad\\Program.cs",
+              "RelativeToolTip": "EjercicioAlumnoUniversidad\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwC8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:43:19.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
